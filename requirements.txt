@@ -1,2 +1,5 @@
 fastapi
 uvicorn
+logging
+sqlalchemy
+datetime
